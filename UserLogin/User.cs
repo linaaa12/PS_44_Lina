@@ -8,5 +8,9 @@ namespace UserLogin
 {
     internal class User
     {
+        public string userName;
+        public string password;
+        public string facNumber;
+        public int role;
     }
 }
